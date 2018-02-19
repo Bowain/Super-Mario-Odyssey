@@ -1,7 +1,8 @@
 # Super-Mario-Odyssey
-Liste des items, transformations, costumes, etc. [En cours]
+Liste des items, transformations, chapeaux, tenues et costumes, etc. [En cours]
 - Liste des items [OK]
 - Transformations [OK]
-- Costumes [X]
-
+- Chapeaux [OK]
+- Tenues et costumes [OK]
+- Autres [X]
 Rejoindre le serveur Discord : https://discord.gg/K5MgUcV
