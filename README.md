@@ -5,5 +5,3 @@ Liste des items, transformations, chapeaux, tenues et costumes, etc. [En cours]
 - Chapeaux [OK]
 - Tenues et costumes [OK]
 - Autres [X]
-
-Rejoindre le serveur Discord : https://discord.gg/K5MgUcV
